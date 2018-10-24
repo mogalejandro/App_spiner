@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App_spiner</string>
+    <string name="et1_string">Valor 1</string>
+    <string name="et2_string">Valor 2</string>
+    <string name="boton_string">Calcular</string>
+    <string name="tv_string">Resultado</string>
+</resources>
